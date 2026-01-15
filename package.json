@@ -1,0 +1,14 @@
+{
+  "name": "rd-ts-clean",
+  "version": "1.0.0",
+  "description": "Clean TypeScript repo for drift testing",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'Tests pass'"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
